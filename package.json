@@ -1,0 +1,23 @@
+{
+  "name": "isthisnumber",
+  "version": "1.0.0",
+  "description": "Check the type of the datatype",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muralitharanaspritle/isthisnumber.git"
+  },
+  "keywords": [
+    "string"
+  ],
+  "author": "muralitharana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muralitharanaspritle/isthisnumber/issues"
+  },
+  "homepage": "https://github.com/muralitharanaspritle/isthisnumber#readme"
+}
